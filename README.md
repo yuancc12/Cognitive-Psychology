@@ -28,5 +28,6 @@
 # 練習專區
 # 作業專區
 # 課堂PPT
++ [課綱](https://moodle3.ntnu.edu.tw/pluginfile.php/1101528/mod_resource/content/0/%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.pdf)
 + [第一週]()
 + [第二週]()
