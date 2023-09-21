@@ -1,5 +1,5 @@
-# Cognitive-Psychology
-# 112-1 認知心理學
+# Virtual Reality
+# 112-1 虛擬實景設計
 # 目錄
 + [簡介](https://github.com/yuancc12/Cognitive-Psychology/blob/main/README.md#%E7%B0%A1%E4%BB%8B)
 + [自我介紹](https://github.com/yuancc12/Cognitive-Psychology/blob/main/README.md#%E8%87%AA%E6%88%91%E4%BB%8B%E7%B4%B9)
@@ -8,11 +8,11 @@
 + [課堂PPT](https://github.com/yuancc12/Cognitive-Psychology/blob/main/README.md#%E8%AA%B2%E5%A0%82ppt)
 
 # 簡介
-**授課教師:吳清麟教授**
+**授課教師:黃臣鴻教授**
 
-**上課時間：星期一 13.20-16.20**
+**上課時間：星期二 09.10-12.10**
 
-**上課地點：正101**
+**上課地點：TA309**
 ***
 # 自我介紹
 **姓名**：[孫源智](https://yuancc12.github.io/web/mypages/)\
@@ -28,6 +28,5 @@
 # 練習專區
 # 作業專區
 # 課堂PPT
-+ [課綱](https://moodle3.ntnu.edu.tw/pluginfile.php/1101528/mod_resource/content/0/%E8%AA%B2%E7%A8%8B%E5%A4%A7%E7%B6%B1.pdf)
 + [第一週]()
 + [第二週]()
